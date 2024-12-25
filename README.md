@@ -24,4 +24,5 @@ State Engine is written in both GDScript and C#, as I frequently use both for va
 
 ## TODO
 - General polishing.
+- Add C# and Node Extensions.
 - Make it an addon.
